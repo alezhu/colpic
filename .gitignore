@@ -36,3 +36,5 @@
 /.idea
 /cmake-build-*
 /testfiles
+/build
+/conan_provider.cmake
