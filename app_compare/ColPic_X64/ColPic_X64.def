@@ -1,0 +1,5 @@
+EXPORTS
+ColPic_CheckHeadStr
+ColPic_DecodeStr
+ColPic_EncodeStr
+ColPic_Test

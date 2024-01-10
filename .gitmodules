@@ -1,0 +1,4 @@
+[submodule "CMakeHelpers"]
+	path = CMakeHelpers
+	url = https://github.com/halex2005/CMakeHelpers.git
+	branch = master
